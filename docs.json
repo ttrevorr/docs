@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
+  "theme": "palm",
   "name": "Mint Starter Kit",
   "colors": {
     "primary": "#16A34A",
@@ -118,5 +118,11 @@
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
+  },
+  "api": {
+    "playground": {
+      "proxy": true
+    },
+    "openapi": "https://api.dev.xiltrix.io/docs-json"
   }
 }
