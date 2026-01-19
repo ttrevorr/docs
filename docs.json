@@ -49,7 +49,7 @@
       },
       {
         "tab": "API reference",
-        "openapi": "api.dev.xiltrix.io/docs-json"
+        "openapi": "https://api.dev.xiltrix.io/docs-json"
       }
     ],
     "global": {
